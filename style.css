@@ -1,0 +1,156 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #545454;
+}
+#navbar {
+    justify-content: center;
+    background-color: black;
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    top: 0;
+    text-align: center;
+    align-items:center;
+    font-size: 14px;
+}
+#navbar a {
+    text-decoration: none;
+    margin: 50px;
+    color: white;
+    font-size: 18px;
+}
+#campains p a {
+    margin-top: 500px;
+}
+#logo {
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+}
+#campains {
+ margin-top: 50px; 
+ height: 49px;
+ background-color: #545454;
+ text-align: center;
+ align-items:center; 
+ vertical-align: baseline; 
+ display:flex;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ color: white;
+}
+p {
+    justify-content: center;
+}
+.blocks-1 h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-family: Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+}
+.blocks-1 h4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.blocks-1 a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+.blocks-1{
+    text-align: center;
+    height: 700px;
+    width: 100%;
+    color: white;
+    margin-top: 5px;
+    padding-top: 50px;
+}
+ #block-one{
+     background-image: url(images/desktop-1.jpg);
+     background-size: cover;
+     background-position: center center;
+ }  
+ #block-two {
+     background-image: url(images/desktop-2.jpg);
+     background-size: cover;
+     background-position: center center;
+ }
+ #block-three {
+     background-image: url(images/desktop-3.jpg);
+     background-size: cover;
+     background-position: center center;
+ }
+#container-1 {
+    margin: 10px 5px;
+    float: left;
+    width: 50%;
+}
+#container-2 {
+    margin-top: 10px;
+    float: right;
+    width: 50%;
+}
+.table {
+    color: white;
+    text-align: center;
+    height: 570px;
+}
+.table h1 {
+    font-family: Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+}
+.table h4 {
+    font-family: Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+}
+#razer {    
+    background-image: url(images/desktop-4.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+#blade {
+    background-image: url(images/desktop-6.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+#back {
+    background-image: url(images/desktop-8.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+#your {
+    background-image: url(images/desktop-5.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+#all {
+    background-image: url(images/desktop-7.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+#cortex {
+    background-image: url(images/desktop-9.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.row {
+    background-color: black;
+}
+#frame {
+    display:flex
+}
+.label-container {
+    color: white;
+    margin: 10px;
+}
+.col-footer-top li {
+    margin: 10px 0px;
+}
+.col-footer-top a {
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+    list-style: none;
+}
