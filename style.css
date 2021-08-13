@@ -5,7 +5,7 @@
 body{
     background-color: #545454;
 }
-#navbar {
+ #navbar {
     justify-content: center;
     background-color: black;
     width: 100%;
@@ -15,23 +15,36 @@ body{
     text-align: center;
     align-items:center;
     font-size: 14px;
+    display: flex;
 }
 #navbar a {
     text-decoration: none;
     margin: 50px;
     color: white;
     font-size: 18px;
+} 
+/* #navbar {
+    width: 100%;
+    height: 60px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    position: fixed;
+    top: 0;
 }
-#campains p a {
-    margin-top: 500px;
-}
+#navbar a{
+padding: 30px;
+color: white;
+} */
 #logo {
     width: 40px;
     height: 40px;
     margin-top: 10px;
 }
 #campains {
- margin-top: 50px; 
+ justify-content: center;
+ margin-top: 60px; 
  height: 49px;
  background-color: #545454;
  text-align: center;
@@ -135,7 +148,7 @@ p {
     background-size: cover;
     background-position: center center;
 }
-.row {
+.row {      
     background-color: black;
 }
 #frame {
